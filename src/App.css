@@ -15,19 +15,19 @@
 
 .App-header {
   background-color: #ffffff;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+ 
 }
 
 .Button {
   color: #ff0000;
   height: 50%;
   width: 50%;
+}
+
+.Resultat {
+  border: 1px solid black;
+  padding: 10px;
+  
 }
 
 @keyframes App-logo-spin {
